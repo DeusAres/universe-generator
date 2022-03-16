@@ -1,9 +1,12 @@
 # universe-generator
 Generate a pixel art image in the universe with planets, quasars, stars and black holes
+<img src="https://github.com/DeusAres/universe-generator/blob/master/saves/galaxy_1.png?raw=true" width = 300>
 
 # Requirements
-python 3+, PIL, numpy, funPIL, PySimpleGUI
-`pip install Pillow numpy funPIL PySimpleGUI`
+python 3+, PIL, numpy, funPIL, PySimpleGUI  
+`pip install Pillow numpy funPIL PySimpleGUI`  
+Download the this github repo and you are ready to go  
+
 
 # Usage
 The interface is pretty straight forward.  
